@@ -1,2 +1,2 @@
 # PhoneBook
-# Made using HTML, CSS and JS
+Made using HTML, CSS and JS
